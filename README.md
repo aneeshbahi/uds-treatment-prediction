@@ -33,8 +33,6 @@ Machine learning research project from Emerson Health's Department of Urology, s
 
 ## Results
 
-![Feature importance](figures/feature_importance.png)
-
 ![Correlation heatmap](figures/correlation_heatmap.png)
 
 ## Tech stack
